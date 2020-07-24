@@ -3,4 +3,4 @@
 Height map point cloud render of Hong Kong using OpenGL. The project is a small program to test OpenGL.
 Requires some cleaning of code and error checking.
 
-![Point cloud of Hong Kong]()
+![Point cloud of Hong Kong](https://github.com/LJKos/hongkong-render/blob/master/hongkong-point-cloud.png)
